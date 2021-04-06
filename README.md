@@ -1,4 +1,4 @@
-# Working It OUt
+# Working It Out
 
 ## Description
 This is an application that allows a user to view, create, and track daily workouts. It was created using a Mongo database with a Mongoose schema and enables handle routes with Express.
